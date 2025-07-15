@@ -504,7 +504,7 @@ sections:
         subtitle: 'Goppa Singh, Goppa Tech'
         text: ''
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/avatar6.svg
           altText: Maria Walters
           styles:
             self:
