@@ -20,7 +20,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: P**n
+      - label: Visit
         altText: ''
         url: /
         showIcon: true
