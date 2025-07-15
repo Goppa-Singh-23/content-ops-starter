@@ -11,7 +11,7 @@ sections:
     text: |
       This Is My Repo I Will Create A Site In Few Months
     actions:
-      - label: Get started
+      - label: "Click Here \U0001F448"
         altText: ''
         url: /
         showIcon: false
