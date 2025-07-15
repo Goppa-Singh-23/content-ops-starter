@@ -502,10 +502,7 @@ sections:
       - title: "\"Hacking can be art.\_Hacking\_can be aesthetics.\_Hacking\_is so simple, that's why it is so complicated.\""
         tagline: Testimonial 5
         subtitle: 'Goppa Singh, Goppa Tech'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: ''
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
