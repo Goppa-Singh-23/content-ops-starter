@@ -67,12 +67,6 @@
             "type": "Social"
         },
         {
-            "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
-            "icon": "twitter",
-            "type": "Social"
-        },
-        {
             "type": "Social",
             "altText": "YouTube icon",
             "url": "/Goppa-tech",
